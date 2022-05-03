@@ -1,5 +1,5 @@
-<h2> braz#1080
-<h3> always learning something new and all tech stuffs</h3>
+<h2 lign="left"> braz#1080
+<h3 lign="left"> always learning something new and all tech stuffs</h3>
 
 
 <p align="left"> <a href="https://twitter.com/brazxfx" target="blank"><img src="https://img.shields.io/twitter/follow/brazxfx?logo=twitter&style=for-the-badge" alt="brazxfx" /></a> </p>
