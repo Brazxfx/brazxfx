@@ -5,9 +5,6 @@
 <p align="left"> <a href="https://twitter.com/brazxfx" target="blank"><img src="https://img.shields.io/twitter/follow/brazxfx?logo=twitter&style=for-the-badge" alt="brazxfx" /></a> </p>
 
   
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-
-[![Linkedin: Davi Chacon](https://img.shields.io/badge/-ChaconDavi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-chacon-5123b018a/)](https://www.linkedin.com/in/davi-chacon-5123b018a/)
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center" style="display: inline_block">
